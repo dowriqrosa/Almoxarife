@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cEquipamento"
+            android:title="Cadastro de equipamentos" />
+        <item
+            android:id="@+id/eEntrada"
+            android:title="Entrada de equipamento"/>
+            <!--android:icon="@drawable/ic_menu_gallery"-->
+        <item
+            android:id="@+id/eSaida"
+            android:title="Saida de equipamento" />
+        <item
+            android:id="@+id/detalhe"
+            android:title="Detalhes" />
+
+    </group>
+
+</menu>

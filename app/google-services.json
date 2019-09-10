@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "930335789039",
+    "firebase_url": "https://almoxarife-317eb.firebaseio.com",
+    "project_id": "almoxarife-317eb",
+    "storage_bucket": "almoxarife-317eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930335789039:android:9ae16e0d8b112cec",
+        "android_client_info": {
+          "package_name": "com.example.dowriq.almoxarife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930335789039-qgcn41ak75f84em8djan13pr1el009om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dowriq.almoxarife",
+            "certificate_hash": "b529f227a065accb12f10cd05a530d5deac68db5"
+          }
+        },
+        {
+          "client_id": "930335789039-mtdc1j77a60f8f1j7pbikt66trj217pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIgETsvMoEylbui3DcBtni7tDFPhht2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930335789039-mtdc1j77a60f8f1j7pbikt66trj217pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

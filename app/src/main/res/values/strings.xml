@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Almoxarife</string>
+    <string name="fa_a_o_login">Faça o login</string>
+    <string name="login">Login</string>
+    <string name="voltar">Voltar</string>
+    <string name="title_activity_principal">Almoxarife</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Almoxarife</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="excluir">Excluir</string>
+    <string name="detalhe">Detalhe</string>
+
+</resources>
